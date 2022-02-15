@@ -11,5 +11,10 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 /bin/
 *.class
+< uc3
+*.project
+*.classpath
+======
 *.classpath
 *.project
+> main
